@@ -2,6 +2,6 @@
 
 # minor change 2
 
-a = function(x) x^3 + 2
+a_fun = function(x) x^3 + 2
 
-b = function(y) y - 1
+b_fun = function(y) y - 1
