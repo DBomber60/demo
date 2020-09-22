@@ -2,4 +2,4 @@
 
 # minor change 2
 
-a = function(x) x^3 + 2
+a = function(x) x^3 + 3
