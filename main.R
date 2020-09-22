@@ -5,3 +5,5 @@
 a_fun = function(x) x^3
 
 b_fun = function(y) y - 1
+
+c = function(c) c^5
