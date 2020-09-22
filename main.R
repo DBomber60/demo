@@ -2,7 +2,7 @@
 
 # minor change 2
 
-a_fun = function(x) x^3 + 2
+a_fun = function(x) x^3 + 4
 
 b_fun = function(y) y - 1
 
