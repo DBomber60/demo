@@ -3,7 +3,7 @@
 # minor change 2
 
 
-a_fun = function(x) x^3
+a_fun = function(x) x^1
 
 b_fun = function(y) y - 1
 
