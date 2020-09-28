@@ -2,7 +2,7 @@
 
 a_fun = function(x) x^5 + 7 # fixed function fixa
 b_fun = function(c) c - 2
-c_fun = function(c) x^7
+c_fun = function(c) x^6 # fixed in fixc
 
 # Ann Reynolds
 # Dave Reynolds
